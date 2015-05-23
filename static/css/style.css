@@ -1,6 +1,6 @@
 
 body {
-  color: #222;
+  color: green;
 }
 
 h1, h2 {
@@ -54,4 +54,10 @@ h1 {
 .btn-primary {
 	background-color:#ceed7e;
 	border-color:#ceed7e;
+}
+
+#blockdiv {
+        height: 600px;
+        background-color:green;
+
 }
